@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200355382055",
+    "project_id": "notesapplication-abcaf",
+    "storage_bucket": "notesapplication-abcaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200355382055:android:5ef47af473aae1e9379f02",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy5pxoP-U3j8axTqgdepVHNC23nDKYhtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
